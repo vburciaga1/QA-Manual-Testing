@@ -1,0 +1,1 @@
+This repository showcases my growing skills in manual software testing, including test case design, defect reporting, documentation structure, and version control using GitHub. My goal is to demonstrate clear, organized, and professional QA practices that reflect real‑world testing workflows
