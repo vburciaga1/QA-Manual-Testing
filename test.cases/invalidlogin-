@@ -1,0 +1,23 @@
+# Test Case: Login into Ebay with invalid Credentials
+
+**Test Case ID:** TC_LOGIN_001  
+**Module:** Test Login  
+**Priority:** High  
+**Preconditions:** User does not have valid account  
+
+## Steps:
+1. Navigate to the login page
+2. Enter a invalid email address
+3. Enter a invalid password
+4. Click the "Login" button
+
+## Expected Result:
+User is unsuccessfully logged in.
+
+## Actual Result:
+(To be filled during testing)
+
+## Status:
+Pass / Fail (choose one during execution)
+
+added login testcase.
